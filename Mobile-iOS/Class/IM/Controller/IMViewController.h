@@ -1,15 +1,13 @@
 //
-//  ViewController.h
+//  IMViewController.h
 //  Mobile-iOS
 //
-//  Created by zhenhh on 2017/3/10.
+//  Created by zhenhh on 2017/3/14.
 //  Copyright © 2017年 zhenhh. All rights reserved.
 //
 
 #import <UIKit/UIKit.h>
 
-@interface ViewController : UIViewController
-
+@interface IMViewController : UIViewController
 
 @end
-
